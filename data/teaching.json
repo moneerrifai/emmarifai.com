@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Teaching Philosophy",
+        "link":"../../teaching/teachingphilosophy"
+    },
+    {
+        "description": "University Teaching Experience",
+        "link":"../../teaching/universityteachingexperience"
+    },
+    {
+        "description": "Teaching Evaluations",
+        "link":"../../teaching/teachingevaluations"
+    },
+    {
+        "description": "Teaching Resources",
+        "link":"../../teaching/teachingresources"
+    },
+    {
+        "description": "Online Teaching Resources",
+        "link":"../../teaching/onlineteachingresources"
+    },
+    {
+        "description": "Sample Syllabi",
+        "link":"../../teaching/samplesyllabi"
+    }
+]

@@ -5,46 +5,42 @@ theme = "resume"
 
 [params]
     firstName = "Emma"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
+    lastName = "Rifai"
+    address = "Iowa City, IA"
+    university = "The University of Iowa"
     phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "emma.rifai@gmail.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    contactNote = ""
+    profileImage = "img/emma.jpg"
+    email = "emma-rifai@uiowa.edu"
+    description = "PhD Candidate in Religious Studies at The University of Iowa"
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
+    showHonorsAwards = true
     showPublications = true
-    showExperience = true
+    showTeaching = true
+    showPresentations = true
+    showResearch = true
     showEducation = true
+    showService = true
+    showContact = true
 
-    showQr = true
+[[params.handles]]
+    name = "Email"
+    link = "mailto:emma-rifai@uiowa.edu"
+    icon = "envelope" #optional icon attribute used for Font Awesome icons
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
-
-
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://www.linkedin.com/in/emmarifai/"
 
 [[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
+    name = "Google Scholar"
+    link = "https://scholar.google.com/citations?user=zL3di_0AAAAJ&hl=en"
+    icon = "graduation-cap" #optional icon attribute used for Font Awesome icons
 
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
 
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
+
+
 
 [params.google.analytics]
     trackerID = "XX-123446-01"

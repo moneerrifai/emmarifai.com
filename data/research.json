@@ -1,0 +1,18 @@
+[
+    {
+        "description": "Publications",
+        "link":"../../research/publications"
+    },
+    {
+        "description": "Presentations",
+        "link":"../../research/presentations"
+    },
+    {
+        "description": "Research Statement",
+        "link":"../../research/researchstatement"
+    },
+    {
+        "description": "Research Assistantships",
+        "link":"../../research/researchassistantships"
+    }
+]

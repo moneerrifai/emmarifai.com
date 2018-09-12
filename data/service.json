@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Service & Professional Development",
+        "link":"../../service/professionaldevelopment"
+    },
+    {
+        "description": "Professional Affiliations",
+        "link":"../../service/affiliations"
+    },
+    {
+        "description": "Languages",
+        "link":"../../service/languages"
+    }
+]

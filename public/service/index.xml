@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Emma Rifai</title>
+    <link>https://www.emmarifai.com/service/</link>
+    <description>Recent content in Services on Emma Rifai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jun 2018 23:27:47 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.emmarifai.com/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Affiliations</title>
+      <link>https://www.emmarifai.com/service/affiliations/</link>
+      <pubDate>Fri, 15 Jun 2018 23:27:47 -0500</pubDate>
+      
+      <guid>https://www.emmarifai.com/service/affiliations/</guid>
+      <description>American Academy of Religion</description>
+    </item>
+    
+    <item>
+      <title>Service &amp; Professional Development</title>
+      <link>https://www.emmarifai.com/service/professionaldevelopment/</link>
+      <pubDate>Fri, 15 Jun 2018 23:26:12 -0500</pubDate>
+      
+      <guid>https://www.emmarifai.com/service/professionaldevelopment/</guid>
+      <description>2017-Present Student Director of the Upper Midwest Region of the American Academy of Religion
+2018 Summer Doctoral Seminar at Wayne State University with Professor Bonnie Dow
+2018 Peer Reviewer for Contemporary Women’s Writing
+2018 Dissertation Writing Summer Camp
+2018 Grant and Fellowship Writing Seminar
+2016 Iowa N.E.W. Leadership Institute Participant, The University of Iowa
+2016-2017 UI Council on the Status of Women Participant, The University of Iowa
+2015 Advanced Graduate Student Workshop Leader, The University of Iowa</description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>https://www.emmarifai.com/service/languages/</link>
+      <pubDate>Fri, 15 Jun 2018 23:25:33 -0500</pubDate>
+      
+      <guid>https://www.emmarifai.com/service/languages/</guid>
+      <description>Arabic, Reading Proficient</description>
+    </item>
+    
+  </channel>
+</rss>

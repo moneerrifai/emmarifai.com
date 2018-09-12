@@ -3,17 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.emmarifai.com/service/affiliations/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/research/researchassistantships/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/samplesyllabi/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/onlineteachingresources/</loc>
+    <lastmod>2018-06-15T23:26:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/research/publications/</loc>
+    <lastmod>2018-06-15T23:26:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/service/professionaldevelopment/</loc>
+    <lastmod>2018-06-15T23:26:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/teachingresources/</loc>
+    <lastmod>2018-06-15T23:25:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/service/languages/</loc>
+    <lastmod>2018-06-15T23:25:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/teachingevaluations/</loc>
+    <lastmod>2018-06-15T23:25:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/research/presentations/</loc>
+    <lastmod>2018-06-15T23:25:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/universityteachingexperience/</loc>
+    <lastmod>2018-06-15T23:25:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/research/researchstatement/</loc>
+    <lastmod>2018-06-15T23:22:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/teachingphilosophy/</loc>
+    <lastmod>2018-06-15T23:22:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/</loc>
+    <lastmod>2018-06-14T23:18:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/</loc>
+    <lastmod>2018-02-10T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
     <loc>https://www.emmarifai.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.emmarifai.com/</loc>
+    <loc>https://www.emmarifai.com/research/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/service/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.emmarifai.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.emmarifai.com/teaching/</loc>
+    <lastmod>2018-06-15T23:27:47-05:00</lastmod>
     <priority>0</priority>
   </url>
   

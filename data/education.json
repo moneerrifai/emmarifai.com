@@ -1,0 +1,34 @@
+[
+    {
+        "school": "The University of Iowa",
+        "degree":"PhD",
+        "major":"Religious Studies",
+        "range":"In Progress",
+        "certificate1": "Graduate Certificate in Gender, Women’s, and Sexuality Studies (2017)",
+        "certificate2": "Graduate Certificate in College Teaching (2017)"
+    },
+    {
+        "school":"The University of Iowa",
+        "degree":"MA",
+        "major":"Religious Studies",
+        "range":"2018"
+    },
+    {
+        "school":"The University of Washington",
+        "degree":"MA",
+        "major":"International Studies:  Middle East Studies",
+        "range":"2011"
+    },
+    {
+        "school":"Minnesota State University Moorhead",
+        "degree":"BA",
+        "major":"Sociology of Religion",
+        "range":"2009"
+    },
+    {
+        "school":"Concordia College",
+        "degree":"BM",
+        "major":"Instrumental Music with a Minor in Religion",
+        "range":"2008"
+    }
+]
