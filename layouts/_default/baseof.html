@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{{ .Title }}</title>
+  {{ template "_internal/opengraph.html" . }}
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
   <meta name="description" content="{{ .Site.Params.description }}">
