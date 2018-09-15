@@ -1,0 +1,16 @@
+.bg-primary {
+    background-color: rgb(29, 104, 51) !important;
+  }
+  
+  .text-primary {
+    color: rgb(29, 104, 51) !important;
+  }
+  
+  a {
+    color: rgb(29, 104, 51);
+  }
+  
+  a:hover, a:focus, a:active {
+    color: rgb(29, 104, 51);
+  }
+  
