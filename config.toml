@@ -24,6 +24,9 @@ theme = "resume"
     showService = true
     showContact = true
 
+    [params.facebook]
+        appid = "1118082925015603"
+
 [[params.handles]]
     name = "Email"
     link = "mailto:emma-rifai@uiowa.edu"
