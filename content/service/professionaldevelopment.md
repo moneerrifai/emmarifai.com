@@ -10,16 +10,17 @@ author: "Emma"
 Student Director of the Upper Midwest Region of the American Academy of Religion
 
 #### 2018			
-Summer Doctoral Seminar at Wayne State University with Professor Bonnie Dow
+Summer Doctoral Seminar Participant at Wayne State University with Professor Bonnie Dow
 
 #### 2018			
-Peer Reviewer for Contemporary Women’s Writing
+Peer Reviewer for *Contemporary Women’s Writing*
 
 #### 2018			
-Dissertation Writing Summer Camp
+Dissertation Writing Summer Camp Participant, The University of Iowa
 
 #### 2018			
-Grant and Fellowship Writing Seminar
+Grant and Fellowship Writing Seminar Participant, The University of
+Iowa
 
 #### 2016			
 Iowa N.E.W. Leadership Institute Participant, The University of Iowa

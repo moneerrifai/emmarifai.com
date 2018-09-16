@@ -1,34 +1,42 @@
 [
     {
-        "school": "The University of Iowa",
-        "degree":"PhD",
-        "major":"Religious Studies",
+        "school": "The University of Iowa, Iowa City, Iowa",
+        "degree":"Ph.D., Religious Studies",
         "range":"In Progress",
-        "certificate1": "Graduate Certificate in Gender, Women’s, and Sexuality Studies (2017)",
-        "certificate2": "Graduate Certificate in College Teaching (2017)"
+        "special": "Advisors: Dr. Jenna Supp-Montgomerie and Dr. Kristy Nabhan-Warren"
     },
     {
-        "school":"The University of Iowa",
-        "degree":"MA",
-        "major":"Religious Studies",
-        "range":"2018"
+        "school":"The University of Iowa, Iowa City, Iowa",
+        "degree":"M.A., Religious Studies",
+        "range":"2018",
+        "special":"Comprehensive Exam Areas: American Religions; Critical Theory and Religion; and Religion, Food, and the Body"
     },
     {
-        "school":"The University of Washington",
-        "degree":"MA",
-        "major":"International Studies:  Middle East Studies",
-        "range":"2011"
+        "school":"The University of Iowa, Iowa City, Iowa",
+        "degree":"The Graduate Certificate in Gender, Women’s, and Sexuality Studies",
+        "range":"2017"
     },
     {
-        "school":"Minnesota State University Moorhead",
-        "degree":"BA",
-        "major":"Sociology of Religion",
-        "range":"2009"
+        "school":"The University of Iowa, Iowa City, Iowa",
+        "degree":"The Graduate Certificate in College Teaching",
+        "range":"2017"
     },
     {
-        "school":"Concordia College",
-        "degree":"BM",
-        "major":"Instrumental Music with a Minor in Religion",
-        "range":"2008"
+        "school":"The University of Washington, Seattle, Washington",
+        "degree":"M.A., International Studies: Middle East Studies",
+        "range":"2011",
+        "special": "Thesis: Fashioning Identities: New Relationships with Fashion and Modesty in Turkey"
+    },
+    {
+        "school":"Minnesota State University Moorhead, Moorhead, Minnesota",
+        "degree":"B.A., Major in Sociology of Religion",
+        "range":"2009",
+        "special": "Senior Thesis: Unveiling New Orientalism: An Exploration in Images"
+    },
+    {
+        "school":"Concordia College, Moorhead, Minnesota",
+        "degree":"B.M., Major in Instrumental Music; Minor in Religion",
+        "range":"2008",
+        "special": "Senior Thesis: The Body’s Iron Cage and Its Relationship to the Protestant Ethic"
     }
 ]

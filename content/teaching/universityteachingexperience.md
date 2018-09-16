@@ -13,6 +13,8 @@ Digital Media and Religion, Spring 2017
 
 <h5>The University of Iowa, Teaching Assistant</h5>
 
+Medieval Religion and Culture, Fall 2018
+
 Harry Potter:  Mystery & Magic of Life, Fall 2017
 
 Digital Media and Religion, Spring 2017

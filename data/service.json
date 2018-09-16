@@ -4,6 +4,10 @@
         "link":"../../service/professionaldevelopment"
     },
     {
+        "description": "Public Engagement",
+        "link":"../../service/publicengagement"
+    },
+    {
         "description": "Professional Affiliations",
         "link":"../../service/affiliations"
     },

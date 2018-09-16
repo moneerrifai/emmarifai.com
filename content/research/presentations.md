@@ -4,7 +4,11 @@ date: 2018-06-15T23:25:14-05:00
 draft: false
 author: "Emma"
 ---
-<br>
+<h5>2018</h5>
+“Networked Anorexia: Pro-Ana Communities, Network Logic, and the
+Internet,” Conference of the International Society for Media, Religion, and
+Culture, University of Colorado Boulder
+
 <h5>2018</h5>
 “Pro-Ana:  An Internet-Mediated ‘New Religious Movement’?”  Craft 
 Critique Culture:  Reckoning with Appetite Interdisciplinary Graduate Student Conference, The University of Iowa
