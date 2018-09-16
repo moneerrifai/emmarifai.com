@@ -1,5 +1,5 @@
 ---
-title: "Teaching Philosophy"
+title: "Teaching Statement"
 date: 2018-06-15T23:22:44-05:00
 draft: false
 author: "Emma"
