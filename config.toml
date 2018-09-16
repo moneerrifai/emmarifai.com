@@ -6,7 +6,7 @@ theme = "resume"
 [params]
     firstName = "Emma"
     lastName = "Rifai"
-    address = "Iowa City, IA"
+    address = "Iowa City, Iowa"
     university = "The University of Iowa"
     phone = "1-555-555-1234"
     contactNote = ""
