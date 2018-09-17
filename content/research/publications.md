@@ -13,14 +13,10 @@ author: "Emma"
 
 <br>
 
-<h4>Book Review</h4>
+<h4>Book Reviews</h4>
 
 
 Review of Religious Affects:  Animality, Evolution, and Power, by Donovan O. Schaefer.  Material Religion 12:4 (December 2016):  515-516.
-
-<br>
-
-<h4>Book Review</h4>
 
 
 Review of The Story of Radio Mind: A Missionary’s Journey on Indigenous Land, by Pamela E. Klassen. Material Religion. Forthcoming.

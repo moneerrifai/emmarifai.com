@@ -37,13 +37,13 @@ Turkey,” Minnesota State University Moorhead
 
 <h5>2008</h5>
 “The Body’s Iron Cage and Its Relationship to the Protestant Ethic,” 
-Annual Upper Midwest Meeting of the American Academy of Religion
+Annual Upper Midwest Meeting of the American Academy of Religion, St. Paul, Minnesota
 <br>
 
 <h5>2007</h5>
 “From California to Calcutta:  Spreading the White-Western Devotion to 
 Female Thinness - A Feminist Post-Colonial Analysis,” Annual Meeting 
-of the American Academy of Religion
+of the American Academy of Religion, San Diego, California
 
 
 
