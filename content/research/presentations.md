@@ -10,6 +10,9 @@ Internet,” Conference of the International Society for Media, Religion, and
 Culture, University of Colorado Boulder
 
 <h5>2018</h5>
+"Uploading the Body; Embodying the Online:  Bodies, Digital Space, and the Pro-Ana Movement," Annual Meeting of the American Academy of Religion, Denver, Colorado
+
+<h5>2018</h5>
 “Pro-Ana:  An Internet-Mediated ‘New Religious Movement’?”  Craft 
 Critique Culture:  Reckoning with Appetite Interdisciplinary Graduate Student Conference, The University of Iowa
 <br>

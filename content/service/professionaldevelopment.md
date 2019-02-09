@@ -6,6 +6,9 @@ author: "Emma"
 ---
 <br>
 
+#### 2018-Present		
+Steering Committee Member of the Religion and Media Workshop of the American Academy of Religion
+
 #### 2017-Present		
 Student Director of the Upper Midwest Region of the American Academy of Religion
 

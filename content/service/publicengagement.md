@@ -7,10 +7,13 @@ author: "Emma"
 <br>
 
 #### 2018		
-Host of a Workshop on Women and Islam, Gloria Dei Lutheran Church, Iowa City, Iowa
+“Women and Islam” Workshop Host, JustChurch, Iowa City, Iowa 
+
+#### 2018		
+“Women and Islam” Workshop Host, Gloria Dei Lutheran Church, Iowa City, Iowa
 
 #### 2017		
-Co-Host of a Three-Part Workshop on Islam, Gloria Dei Lutheran Church, Iowa City, Iowa
+“Islam” Three-Part Workshop Co-Host, Gloria Dei Lutheran Church, Iowa City, Iowa
 
 #### 2015		
-Guest Discussion Leader on Islam, Lutheran Campus Ministries, Iowa City, Iowa
+“Islam” Guest Discussion Leader, Lutheran Campus Ministries, Iowa City, Iowa
