@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-<p>Welcome to my page! I am a PhD candidate in the department of religious studies at The University of Iowa. My research and teaching interests include:</p>
+<p> Welcome to my page!  I am a PhD candidate in the department of religious studies at The University of Iowa.  My research and teaching interests include:</p>
 
 <ul>
   <li>Protestantism and Secularism in America</li>
@@ -17,5 +17,7 @@ outputs:
   <li>Religion, Food, and the Body</li>
   <li>Gender, Religion, and Culture</li>
 </ul>
+
+<p>My dissertation, “Embodied Covenants:  Women, Weight Loss, and American Secularism,” explores how women’s practices of weight management have become cultural techniques for producing and replicating America’s particular Protestant-informed secularism.  This work provides a needed supplement to ongoing conversations in religious studies, cultural, studies, and gender, women’s, and sexuality studies by demonstrating how American weight loss culture is a gendered and bodily technique of the particular mix of Protestantism and secularism that defines public life in the United States and how the gendered body in contemporary dieting trends contributes to the creation and maintenance of broader political formations.</p>
 
 <p>This site illustrates my teaching experiences, research activities, and service background. To download my CV, please click <a href="https://www.emmarifai.com/resources/Rifai_CV.pdf" target="_blank">here.</a></p>
