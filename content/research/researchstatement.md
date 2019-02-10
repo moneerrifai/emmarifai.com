@@ -6,69 +6,26 @@ author: "Emma"
 ---
 <br>
 
-While calorie counting seems an utterly secular and mundane practice in the United States, body
-management has historically been a weighty matter with moral consequences. According to
-biblical mythology, humanity’s fall from grace was precipitated by a woman eating, after all.
-Like religion, secularism is something negotiated, embodied, and mediated, and while it is often
-perceived and analyzed on the scale of populations, when women participate in weight loss
-cultures they enact and embody “the secular” on the scale of the everyday. By analyzing the
-nature of the “secular” and the “religious” through the lens of body management, my research
-considers how women’s practices of weight management have become cultural techniques for
-producing and replicating America’s particular protestant-informed secularism.
+Because concepts like religion and secularism are typically assumed to be politically neutral, even natural, it can be challenging to parse the ways in which Protestantism and secularism are deeply entangled. The persistent presence of Protestant ideologies in American secularism manifests on every scale–from institutions to individuals. While a number of scholars have attended to America’s particular form of secularism as it circulates in broad institutions like law, politics, and economics, less attention has been paid to how individuals negotiate, embody, and integrate Protestant-informed secularism in their daily lives. My research explores how everyday behaviors at the site body vitalizes and entrenches Protestant commitments to values like individualism, self-control, and voluntarism in contemporary public life by subtly infusing seemingly secular and mundane practices with their timbre.
 
-In my dissertation, I explore how women’s bodies mediate perceived tensions between “religion”
-and “secularism” through techniques of weight loss from the mid-nineteenth century through the
-early twenty-first. I utilize insights from new materialist theory and affect theory to argue that women’s practices of weight management produce and replicate protestant-informed secularism
-in their daily, seemingly mundane interactions with their bodies. In order to highlight the
-entanglements of religion, secularism, culture, gender, and bodies, I offer three case studies of different body management trends in American history that correspond with key shifts in
-American public life.
+My dissertation entitled “Embodied Covenants: Women, Weight Loss, and American Secularism” explores how women’s practices of weight management in the United States constitute an embodied contemporary secularism shaped by Protestant values and ideologies. Highlighting the entanglements of religion, secularism, culture, technology, and bodies, I analyze American weight loss cultures in the late twentieth and early twenty-first centuries. I pay particular attention to cultural themes, technological advances, and sustained Protestant ideologies through the lens of three specific expressions of weight loss culture: socio-medical discourses concerning fat in the 1980s; the rise of nutrigenetics in the 1990s; and the emergence of the pro-ana movement at the turn of the twenty-first century.
 
-My first case study profiles one of the earliest American dieting cultures–the water cure.
-Through an analysis of this trend’s primary periodical Water-Cure Journal (published between
-1845 and 1857), I trace changing attitudes toward the body, particularly in light of the personal ads it ran that included height and weight specifications for prospective partners. This analysis reveals shifting attitudes about the body as well as evolving orientations towards religion, spirituality, and the increasingly “secular” imperative to count calories. My second case study analyzes two specific religious weight loss movements–The Weigh Down Diet and The Daniel Plan, which emerged toward the end of the twentieth century alongside the modern evangelical Christian lifestyle industry. Because these movements appeared at two slightly different moments in the evolution of modern faith-based weight loss culture, I offer a comparison to reveal shifting themes and commitments in devotional diet cultures that mirror similar developments in non-devotional diet cultures. This mirroring is not the result of one trend mimicking the other but is rather the result of shared origins in protestant secular bodily techniques. My final case study explores a contemporary iteration of American weight loss–the pro-ana movement, which emerged alongside the rise of digital technology and widespread
-internet usage at the turn of the twenty-first century. Through an analysis of interactions and
-posted material collected from online pro-ana forums and sites, I explore how the proana
-movement disrupts delineations between “religion” and “secularism” in the twenty-first
-century arguing that the bodily techniques of the pro-ana movement actually highlight the
-continued and persistent entanglements of “secularism” and “religion” today.
+My first case study considers how the particular anxieties of the eighties–a decade often associated with excess and greed–are reflected in the national sentiment towards fat, which was characterized as a burdensome, excisable substance that could be eliminated from the body with the right diet plan. My second case study considers the logics of nutrigenetics, grounded in individualism, optimization, and data analysis, and how these logics echo both Protestant ideology and its emphasis on the internal worlds of individual believers as well as a Cartesian dualism that understands the human subject as capable of controlling the flesh through sustained effort and analysis. My final case study considers the pro-ana movement, an online community that shares resources that support the progression and maintenance of eating disorders. I offer an interpretative account that considers how pro-ana recycles Protestant-informed American secularism through performances of individualism, self-control, and mastery appropriately communicated in a self-selected group setting.
 
-This project makes contributions to three bodies of scholarly literature: religious studies, cultural studies, and histories of American dieting cultures. First, my analysis highlights
-that protestantism and secularism are as embodied as they are textual and thus corrects a
-longstanding disregard for the bodily techniques that sustain public culture in the United 
-States. Second, by mobilizing new materialisms and affect theory, I offer a robust account of the gendered body in contemporary dieting culture and how these dieting bodies contribute to the
-creation of broader political formations. Finally, my work contributes to the growing body of
-literature that addresses the history and evolution of American weight loss culture and diet
-reform, which I supplement by offering a fresh interpretation of three key moments in that
-history that highlight shifting trends in protestant secularism in the United States more
-broadly. Ultimately, my project explores how body management itself–regardless of whether or
-not it is framed as religious or secular–is both the product of protestant secular entanglements as well as the means for their replication.
+Offering important interventions in religious studies, cultural studies, and gender, women’s, and sexuality studies, this project makes plain the ways in which secularism is embodied in American weight loss cultures and thus corrects a longstanding disregard for the bodily techniques that sustain public culture in the United States. It is not arbitrary or insignificant that Protestant values are recycled and reinvented in contemporary weight loss movements. The continued daily performances of these values at the site of the body demonstrates how hegemonic Protestant ideologies are sustained and fortified through everyday, seemingly secular, rhetorics and practices.
 
-As a precursor to this work, I collaborated with two others on a paper, “Spreading the Religion
-of Thinness from California to Calcutta: A Critical Feminist Postcolonial Analysis” which
-appeared in the Spring 2009 issue of the Journal of Feminist Studies in Religion. In this paper,
-we engaged with a critical feminist postcolonial analysis to explore the neocolonial dynamics of
-the spread of western conceptualizations of femininity to the two-thirds world. Drawing on
-research about the growing influence of the Euro-American idealization of thinness on women in
-the global South, we analyzed the missionary-colonizing aspects of the globalization of
-American culture’s devotion to thinness, highlighting its commercial underpinnings and
-implicitly racist subtext. Ultimately, we argued that the globalization of western beauty standards illustrates the extent to which women’s bodies continue to function as primary sites of contact, conflict, and colonization in the process of Western expansion.
+ In 2018, I presented a paper entitled “Networked Anorexia: Pro-Ana Communities, Network
+ Logic, and the Internet” at the biennial conference of the International Society for Religion,
+ Media, and Culture [ISMRC], which inspired a special issue of the *Journal of Religion, Media,
+and Digital Culture* to which I am contributing an article entitled “Networked Anorexia: Pro-
+Ana Communities, Secularism, and the Internet.” I also presented a paper entitled “Uploading
+the Body; Embodying the Online: Bodies, Digital Space, and the Pro-Ana Movement” for the
+Religion, Affect, and Emotion Unit at the 2018 annual American Academy of Religion
+conference. Finally, I am currently working on an essay for *Religion Compass* on religion,
+secularism, and weight loss culture in America that summarizes the state of this fairly new area
+in religious studies.
 
-Recently, based on my dissertation research, I presented a paper entitled “Networked
-Anorexia: Pro-Ana Communities, Network Logic, and the Internet” at the 2018 bi-annual
-conference of the International Society for Religion, Media, and Culture. This year’s ISMRC
-conference has also inspired a special issue of the Journal of Religion, Media, and Digital
-Culture to which I am submitting a journal article abstract for consideration. I will also be
-presenting a paper entitled “Uploading the Body; Embodying the Online: Bodies, Digital Space,
-and the Pro-Ana Movement” for the Religion, Affect, and Emotion unit at the 2018 annual
-American Academy of Religion conference. Additionally, I am currently working on
-an essay for Religion Compass on religion, secularism, and weight loss culture in America that
-summarizes the state of this fairly new area in religious studies. Finally, I have a forthcoming
-review of Pamela Klassen’s The Story of Radio Mind: A Missionary’s Journey on Indigenous
-Land and a previously published review of Donovan Schaefer’s Religious Affects: Animality,
-Evolution, and Power in Material Religion: The Journal of Objects, Art and Belief.
+My next research project will consider early American diet reform movements as they gained traction in the early nineteenth century and how they coincided with rapid urbanization, industrialization, and the emergence of an identifiable print public in the United States. Sylvester Graham and his followers–the first American weight watchers–ushered in an era of widely circulating diet reform movements, which not only linked body size with morality and connected body regulation to the rise of American consumer culture but also worked to establish hierarchies of race, sexuality, gender, and class. Graham was followed by increasingly “secular” diet purveyors, including John Kellogg, Horace Fletcher, and others. By the turn of the twentieth century, dieting had morphed into a seemingly secular affair more oriented toward slimming through calorie counting than avoiding the sin of gluttony.
 
-Overall, my work is an interdisciplinary engagement with broader themes concerning
-protestantism and secularism in America; critical theory and religion; religion, food, and the
-body; and gender, religion, and culture. I am committed to exploring how gender, religion, and
-secularism intersect in mundane, everyday practices at the site of women’s bodies. This
-commitment offers an important contribution to the fields of religious studies, cultural studies, and gender studies by shifting the primary unit of analysis from populations to the individual and how the individual body negotiates, embodies, and mediates “the secular” and “the religious” through daily actions and behaviors.
+While most of the work on early weight loss movements in the United States has centered on Sylvester Graham and his followers, I am interested in exploring another trend–the water cure, a movement that was largely dominated by women in the United States. Most hydropathic spas were run by women and functioned as epicenters for dress reform, temperance, and the women’s rights movement–indeed, the first National Dress Reform Association meeting was held at the Glenhaven Water-Cure. Through an analysis of this trend’s primary periodical *Water-Cure Journal* (published between 1845 and 1857), I will trace changing attitudes toward the body in light of the personal ads it ran that included height and weight specifications for prospective partners. Because other preferences like political orientation and religious affiliation were also listed, I expect to find evidence of shifting attitudes about religion as well. A careful reading and analysis of the Water-Cure Journal will likely offer important interventions in our understanding of shifting attitudes about the body as well as evolving orientations towards religion, spirituality, and the increasingly “secular” imperative to count calories from the mid to late nineteenth century.
+Overall, my work is an interdisciplinary engagement with broader themes concerning Protestantism and secularism in America; critical theory and religion; religion, food, and the body; and gender, religion, and culture. I am committed to exploring how gender, religion, and secularism intersect in mundane, everyday practices at the site of women’s bodies. This commitment offers an important contribution to the fields of religious studies, cultural studies, and gender, women’s, and sexuality studies by shifting the primary unit of analysis from populations to the individual and how the individual, gendered body negotiates, embodies, and mediates “the secular” and “the religious” through daily actions and behaviors.
