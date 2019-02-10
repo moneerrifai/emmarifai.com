@@ -16,4 +16,4 @@ author: "Emma"
 
 <h5>Student Feedback</h5>
 
-* <a href="../../evals/student_evals.pdf" target="_blank">Sample Student Evaluations</a>
+* <a href="../../evals/Rifai_Sample Student Evaluations.pdf" target="_blank">Sample Student Evaluations</a>
