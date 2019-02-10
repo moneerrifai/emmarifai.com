@@ -5,87 +5,18 @@ draft: false
 author: "Emma"
 ---
 <br>
-<h4>Embodied Secularism: Protestant Secularism, Bodies, and American Weight Loss Culture</h4>
+<h4>Embodied Covenants: Women, Weight Loss, and American Secularism</h4>
 
-<p>While calorie counting seems an utterly secular and mundane practice in the United States, body
-management has historically been a weighty matter with moral consequences. According to
-biblical mythology, humanity’s fall from grace was precipitated by a woman eating, after all. By
-analyzing the nature of “the secular” and “the religious” through the lens of body management,
-this study considers how women’s practices of weight management have become cultural
-techniques for producing and replicating protestant secularism. </p>
+Because concepts like religion and secularism are typically assumed to be politically neutral, even natural, it can be challenging to parse the ways in which Protestantism and secularism are deeply entangled. The persistent presence of Protestant ideologies in American secularism manifests on every scale–from institutions to individuals. While a number of scholars have attended to America’s particular form of secularism as it circulates in broad institutions like law, politics, and economics, less attention has been paid to how individuals negotiate, embody, and integrate Protestant-informed secularism in their daily lives.
 
-<p>Protestant secularism denotes a consolidated, pervasive protestant ideology, defined by
-individualism, self-control, voluntarism, and the primacy of textuality that continues to inform
-American secularism today. Arguing that there was nothing inevitable or natural about the
-consolidation of protestant ideology into the American religio-political landscape, scholars like
-Tracy Fessenden, Winnifred Sullivan, Janet Jakobsen, and Ann Pellegrini analyze the ways in
-which protestantism has informed American secularism, both historically and today. This
-hegemonic protestant entrenchment appears, for example, in the nurturing of American citizensubjects
-in early tax-supported public school systems, in legal definitions of religion that protect
-mainstream institutionalized protestantism without protecting the variable lived religious
-practices of non-protestants, and in how the dominant model of secularism, tied to marketreformed
-protestantism, represents a hegemonic political project that seeks to export its form of
-market rationality elsewhere. While previous scholarship in this area tends to analyze American
-secularism on the scale of populations, this project shifts the primary unit of analysis from
-populations to the individual and how the individual negotiates, embodies, and mediates “the
-secular” and “the religious” by participating in American weight loss cultures.</p>
+Indeed, it is everyday behaviors at the site of the body that most vitalizes and entrenches Protestant commitments to values like individualism, self-control, and voluntarism in contemporary public life by subtly infusing seemingly secular and mundane practices–like weight management–with their timbre. This obfuscation is unlike the ways we see Protestant values reified in seemingly secular institutional structures, which can be more easily named, analyzed, and even challenged. The enfleshment of secularized Protestant values lodges the particular secularism of the United States in the daily practices that sustain–or diminish–life and liveliness. “Embodied Covenants: Women, Weight Loss, and American Secularism” explores how women’s practices of weight management in the United States constitute an embodied contemporary secularism shaped by Protestant values and ideologies.
 
-<p>When women participate in weight loss cultures they enact and embody “the secular” and “the
-religious” on the scale of the everyday. This study demonstrates how bodies act as materialdiscursive
-sites mediating perceived tensions between “religion” and “secularism” through
-bodily techniques of weight loss. New materialist theory and affect theory productively intersect
-at the site of the body and inform this project’s approach to American weight loss cultures as
-entanglements of agential affective forces, space, bodies, and other matter(s) congealing at the
-site of bodies performing the techniques prescribed by these very weight loss cultures. </p>
+Highlighting the entanglements of religion, secularism, culture, technology, and bodies, this project explores American weight loss cultures in the late twentieth and early twenty-first centuries. I pay particular attention to cultural themes, technological advances, and sustained Protestant ideologies through the lens of three specific expressions of weight loss culture: socio- medical discourses concerning fat in the 1980s; the rise of nutrigenetics in the 1990s; and the emergence of the pro-ana movement at the turn of the twenty-first century. Taken together, these case studies demonstrate how techniques of weight loss sustain a persistent Protestant ideological hegemony in American secularism.
 
-<p>This project maps this entanglement from 1800 through 2015 coalescing around three specific
-moments. First it considers early nineteenth century American weight watchers like Sylvester
-Graham and his followers, who represent the first iteration of an American weight loss public.
-This first case study profiles one of the earliest American dieting cultures–the water cure–which
-often supplemented grahamite convictions in its practitioners. Most hydropathic spas were run
-by women and functioned as epicenters of dress reform, temperance, and the women’s rights
-movement. Through an analysis of this trend’s primary periodical Water-Cure
-Journal (published between 1845 and 1857), this project traces changing attitudes toward the
-body, particularly in light of the personal ads it ran that included height and weight specifications
-for prospective partners. This analysis reveals shifting attitudes about the body as well as 
-evolving orientations towards religion, spirituality, and the increasingly “secular” imperative to
-count calories.
-</p>
+While weight loss publics have a long history in the United States, it was not until the 1980s that the rising incidence of both eating disorders and obesity became matters of widespread public concern. Body regulation intensified as a new coalition between evangelical Christianity and American politics emerged in the form of the Moral Majority and the subsequent election of Ronald Reagan whose social and economic policies exacerbated negative attitudes towards the body. Nationwide distress over diet and exercise peaked with the release of the ubiquitous “Food Guide Pyramid” by the United States Department of Agriculture (USDA) in 1992. My first case study considers how the particular anxieties of the eighties–a decade often associated with excess and greed–are reflected in the national sentiment towards fat, which was characterized as a burdensome, excisable substance that could be eliminated from the body with the right diet plan.
 
-<p>Second, this project analyzes twentieth century devotional fitness cultures, appearing as part of
-the modern evangelical Christian lifestyle industry, to highlight how these contemporary weight
-loss movements re-imagine themselves in light of the seemingly secular weight loss trends of the
-mid-twentieth century. This second case study analyzes two specific movements–The
-Weigh Down Diet and The Daniel Plan. Because these two movements appeared at two slightly
-different moments in the evolution of modern faith-based weight loss culture, this project offers
-a comparison to reveal shifting themes and commitments in devotional diet cultures that mirror
-similar developments in non-devotional diet cultures. This mirroring is not the result of one trend
-mimicking the other but is rather the result of shared origins in protestant secular bodily
-techniques. </p>
+By the mid-nineties, scientists, mining human biology on ever smaller scales, had started making significant strides in mapping the human genome while, at the same time, engineers were developing increasingly powerful microprocessors, which allowed computers to perform faster and more complex functions at lower costs to consumers whose home computers were becoming increasingly networked. These dual developments–in computer technology and human genetics– inspired an interpretive framework towards the individual body as a unique biological system as well as a networked entity that could be analyzed–through the science of nutrigenetics–to produce a personalized nutrition plan suited to its particular biological makeup. My second case study considers the logics of nutrigenetics, grounded in individualism, optimization, and data analysis, and how these logics echo both Protestant ideology and its emphasis on the internal worlds of individual believers as well as a Cartesian dualism that understands the human subject as capable of controlling the flesh through sustained effort and analysis.
 
-<p>Finally, this project explores a contemporary iteration of American weight loss–the proana
-movement, which emerged alongside the rise of digital technology and widespread internet
-usage in the late twentieth century. Pro-ana is an online community that rejects treatment-based
-approaches to eating disorders and often utilizes religious concepts and categories to define
-and frame its members’ devotion to weight loss. Through an analysis of interactions and posted
-material collected from online pro-ana forums and sites, this project explores how the proana
-movement disrupts delineations between “online” and “offline” space, between “religion”
-and “media” and challenges how “religion” and “secularism” are defined in the twenty-first
-century. Indeed, the bodily techniques of the pro-ana movement highlight the continued and
-persistent entanglements of “secularism” and “religion” at the site of the body.</p>
+By the turn of the century, the rise of digital technology and widespread internet usage in the United States had facilitated the formation of online communities devoted to alternative approaches to eating disorders. Pro-ana is an online community that shares resources that support the progression and maintenance of eating disorders. By participating in group activities that affirm commitments to success, control, and perfection, anas, or pro-ana community members, translate bodily practices in offline space into digitally mediated relationships online. My third case study offers an interpretative account of the pro-ana movement as it recycles Protestant- informed American secularism through performances of individualism, self-control, and mastery appropriately communicated in a self-selected group setting.
 
-<p>By offering interpretative accounts of three key moments in American dieting history, this
-dissertation contributes to ongoing conversations in religious studies, cultural studies, and
-histories of weight loss in the United States by highlighting how protestantism and secularism
-are not simply concepts but also embodied practices. First, this analysis highlights
-that protestantism and secularism are as embodied as they are textual and thus corrects a
-longstanding disregard for the bodily techniques that sustain public culture in the United
-States. Second, by mobilizing new materialisms and affect theory, this project offers a robust
-account of the gendered body in contemporary dieting culture and how these dieting bodies
-contribute to the creation of broader political formations. Finally, this project contributes to the
-growing body of literature that addresses the history and evolution of American weight loss
-culture and diet reform by offering a fresh interpretation of three key moments in that history that
-highlight shifting trends in protestant secularism in the United States more broadly. Ultimately,
-this project explores how body management itself–regardless of whether or not it is framed as
-religious or secular–is both the product of protestant secular entanglements as well as the means
-for their replication.</p>
+Offering important interventions in religious studies, cultural studies, and gender, women’s, and sexuality studies, this project makes plain the ways in which secularism is embodied in American weight loss cultures and thus corrects a longstanding disregard for the bodily techniques that sustain public culture in the United States. It is not arbitrary or insignificant that Protestant values are recycled and reinvented in contemporary weight loss movements. The continued, daily performances of these values at the site of the body demonstrates how hegemonic Protestant ideologies are sustained and fortified through everyday, seemingly secular, rhetorics and practices.
