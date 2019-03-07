@@ -17,3 +17,7 @@ author: "Emma"
 <h5>Student Feedback</h5>
 
 * <a href="../../evals/Rifai_Sample Student Evaluations.pdf" target="_blank">Sample Student Evaluations</a>
+
+<h5>Public Engagement Feedback</h5>
+
+* <a href="../../evals/Rifai_Workshop Evaluation_Sarah.pdf" target="_blank">Workshop Evaluation by Sarah Goettsch</a>
