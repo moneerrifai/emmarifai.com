@@ -9,4 +9,4 @@ author: "Emma"
 
 <a href="../../resources/world_religions.pdf" target="_blank">"World(?) "Religion(s)(?)"(?)</a>
 
-<a href="../../resources/women_and_religion.pdf" target="_blank">Women and Religion in America Today</a>
+<a href="../../resources/Rifai_Syllabus_Women and Religion in America Today.pdf" target="_blank">Women and Religion in America Today</a>
