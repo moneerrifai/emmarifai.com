@@ -5,6 +5,7 @@ draft: false
 author: "Emma"
 ---
 <br>
+
 <h5>The University of Iowa, Instructor</h5>
 
 Digital Media and Religion (RELS: 2930/COMM:2079), Spring 2017
@@ -24,6 +25,14 @@ Modern Religion and Culture (RELS:1250/HIST:1050), Spring 2017
 Religion in America Today (RELS:1702), Fall 2015 and Fall 2016
 
 Religion and Sport in America (RELS:2877), Spring 2015 and Spring 2016
+
+<br>
+
+<h5>The University of Iowa, Teaching Practicum Participant</h5>
+
+Women and Power in U.S. History Through the Civil War (GWSS:3280/HIST:3280), Fall 2016
+
+Magic Machines: Technology and Social Change (COMM:4153), Fall 2015
 
 <br>
 
