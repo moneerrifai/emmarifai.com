@@ -6,6 +6,12 @@ author: "Emma"
 ---
 <br>
 
+#### 2019 
+Peer Reviewer for Communication, Culture and Critique
+
+#### 2019
+Managing the Market Summer Professional Development Series Participant, The University of Iowa
+
 #### 2018-Present		
 Steering Committee Member of the Religion and Media Workshop of the American Academy of Religion
 
