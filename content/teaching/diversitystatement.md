@@ -6,47 +6,14 @@ author: "Emma"
 ---
 <br>
 
-My orientation towards diversity is grounded in my experiences tutoring ELL learners over the
-last ten years. As a volunteer with the Somali Services Coalition, I worked with high school
-students who, in addition to their assigned homework, were committed to developing their
-language skills. Later as a mentor with Giving+Learning, I supported young Somali women as
-they pursued higher education in nursing. And, by offering weekly language classes at the local
-YWCA Women’s Shelter, I worked with women from a variety of backgrounds on their
-language and life skills. In each of these unique environments, I observed that when we make
-education more accessible–to high school students, college students, and adults–we help foster
-both self-empowerment as well as more empathetic relationships. Attending to diversity informs
-all aspects of my academic identity, including my areas of research, my approach to teaching,
-and my service commitments.
+My most profound interactions with diverse populations are grounded in my experiences tutoring ELL learners over the last dozen years. I have learned by working with immigrants and refugees that the challenges they face very rarely stem from a single aspect of their identities; rather, they, like all of us, interact with the world through intersecting identities related to categories like race, gender, sexuality, income, immigration status, and religion. As an educator and researcher, I am committed to engaging with my students, colleagues, and fellow community members by acknowledging and celebrating our intersecting identity categories. 
 
-As a scholar, I embrace diversity both in terms of my methodological and theoretical orientations
-as well as in my choice of subject matter. In addition to my work on North American religions–
-including mainstream denominations, new religious movements, and indigenous spiritualities–I
-have extensive training in gender, women’s, and sexuality studies and considerable fluency with
-Islam and history and politics in the Middle East. I approach these diverse topics by applying
-innovative theoretical perspectives like new materialisms and affect theory, which lend
-themselves to novel interpretations of the relationships between the human and the nonhuman in
-public life.
+As a volunteer with a variety of service organizations that specialize in ELL programing for immigrant and refugee populations (including the Somali Services Coalition, Giving+Learning, and the YWCA), I have learned that the most effective education occurs when we, as educators, attend to the individual needs of our students. For example, standard ELL programming may not always address the needs of adult learners. Because ELL students are often navigating complex legal systems as they work through the immigration process, they may be better served with classes that unpack some of the complex legalese they are expected to negotiate for themselves and their families. As the wife of a now naturalized citizen–my partner is a Palestinian who grew up in Lebanon–I have learned firsthand the stress and uncertainty that accompany the naturalization process, particularly in a political climate that is often hostile towards immigrants broadly and Arabs more specifically. 
 
-As an educator, I teach from a critical feminist perspective regardless of course topic in an effort
-to make what is often seen as the “other” present in every course unit. While students are
-sometimes surprised when I introduce gender or race to topics that seem initially unrelated, they
-quickly learn that any topic we might consider in religious studies is integrally related to
-questions of race and gender. I also consider my mentoring of individual students to be aligned
-with my feminist identity and part of my commitment to making education more accessible,
-particularly for students of color and first-generation college students. Students often approach
-me to discuss not only class content but also with questions concerning their educational and
-career goals.
+As an educator at The University of Iowa, many, but not all, of my students are racially privileged and a considerable number of them are from rural Iowa, often without extensive experience interacting with diverse communities. I myself am from a very small town in Minnesota and grew up in a very racially and ethnically homogenous environment. As a result, I have worked to centralize diverse materials, methodologies, and theoretical approaches to equip my students with the tools necessary to engage and thrive in more diverse environments. For example, while it would, perhaps, be easier to teach a more standard version of world religions centralizing texts, institutional histories, and male experiences, my world religions syllabus centralizes questions of gender and what we learn about various religious traditions when we look to the margins rather than to the center. 
 
-Finally, I seek out service and public engagement opportunities that specifically intersect with
-feminist concerns both on campus and in my community, from more explicitly activist
-engagements in the forms of marches, sit-ins, and rallies to more educational opportunities like
-leading and participating in workshops and discussions. As a graduate student at The University
-of Iowa, I served on the UI Council on the Status of Women and participated in the Iowa N.E.W.
-Leadership Institute as well as offered workshops through a variety of community organizations
-that work to raise awareness and dispel misunderstandings concerning women and gender in
-Islam.
+As a scholar, I embrace diversity both in terms of my methodological and theoretical orientations as well as in my choice of subject matter. In addition to my work on North American religions– including mainstream denominations, new religious movements, and indigenous spiritualities–I have extensive graduate training in gender, women’s, and sexuality studies as well as considerable fluency with Islam and the history and politics of the Middle East. I approach these diverse topics by applying innovative theoretical perspectives like new materialisms and affect theory, which lend themselves to novel interpretations of the relationship between the human and the nonhuman in public life. 
 
-After graduation, I intend to continue to implement my feminist values through my research,
-teaching, and service as a faculty member. I am committed to attending to diverse issues in all of
-my classes both in terms of content but also in terms of how I approach diversity in my
-classroom and in my community more broadly.
+Finally, I am committed to seeking out service and public engagement opportunities that specifically address intersectional concerns both on campus and in my community, from more explicitly activist engagements in the forms of marches, sit-ins, and rallies to more educational opportunities like leading and participating in workshops and discussions. As a graduate student at The University of Iowa, I served on the UI Council on the Status of Women and participated in the Iowa N.E.W. Leadership Institute in addition to offering workshops through a variety of local community organizations that worked to raise awareness and dispel misunderstandings concerning women and gender in Islam. 
+
+After graduation, I intend to continue to implement my intersectional feminist values through my research, teaching, and service. 
