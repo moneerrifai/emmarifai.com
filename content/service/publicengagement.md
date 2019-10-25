@@ -6,6 +6,9 @@ author: "Emma"
 ---
 <br>
 
+#### 2019		
+“Islam and Veiling Practices” Workshop Host, Lutheran Campus Ministries, The University of Iowa, Iowa City, Iowa
+
 #### 2018		
 “Women and Islam” Workshop Host, JustChurch, Iowa City, Iowa 
 
