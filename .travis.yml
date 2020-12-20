@@ -3,13 +3,13 @@ go:
   - 1.15.6
 install:
 - pwd
-- exit
 - mkdir $HOME/src
 - cd $HOME/src
 - git clone https://github.com/gohugoio/hugo.git
 - cd hugo
 - go install
-- cd ~
+- pwd
+- cd /home/travis/gopath/src/github.com/moneerrifai/emmarifai.com
 - pip install --user awscli
 script:
 - hugo version
