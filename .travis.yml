@@ -7,6 +7,7 @@ install:
 - git clone https://github.com/gohugoio/hugo.git
 - cd hugo
 - go install
+- cd ~
 - pip install --user awscli
 script:
 - hugo version
