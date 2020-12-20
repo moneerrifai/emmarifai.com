@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-<p> Greetings and welcome to my page!  I am a PhD candidate in the Department of Religious Studies at The University of Iowa.  My research and teaching interests include:</p>
+<p>Greetings and welcome to my page!  I am a PhD candidate in the Department of Religious Studies at The University of Iowa.  My research and teaching interests include:</p>
 
 <ul>
   <li>Protestantism and Secularism in the United States</li>
