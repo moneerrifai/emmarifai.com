@@ -1,4 +1,6 @@
 language: go
+go:
+  - 1.15.6
 install:
 - go get -v github.com/gohugoio/hugo
 - pip install --user awscli
